@@ -61,14 +61,7 @@
       "node_modules/sqlite3/lib/binding/**/*"
     ],
     "targets": [
-      "node18-macos-arm64",
-      "node18-macos-x64",
-      "node18-windows-x64",
-      "node18-linux-x64",
-      "node18-linux-armv7",
-      "node18-linux-arm64",
-      "node18-alpine-x64",
-      "node18-alpine-arm64"
+      "linux-armv7"
     ],
     "outputPath": "dist"
   },
