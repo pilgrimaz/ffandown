@@ -61,7 +61,7 @@
       "node_modules/sqlite3/lib/binding/**/*"
     ],
     "targets": [
-      "linux-armv7"
+      "armv7"
     ],
     "outputPath": "dist"
   },
